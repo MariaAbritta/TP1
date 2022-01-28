@@ -1,4 +1,4 @@
-# TP1
+# Jogo da forca em Java!
 Trabalho Prático 1 da disciplina de Orientação a Objeto da Universidade de Brasilia - Faculdade do Gama - Engenharia de Software
 
 ![TP1 1](https://user-images.githubusercontent.com/87709987/151436477-f12b55d2-f286-458f-bdb7-2ed308d417e4.png)
